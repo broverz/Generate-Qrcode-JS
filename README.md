@@ -1,2 +1,4 @@
-# Generate-Qrcode-JS
-I do it for educational purposes only.
+# How to use
+> npm i
+> node index.js
+This is all done, enjoy.
